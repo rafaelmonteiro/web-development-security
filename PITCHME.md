@@ -106,6 +106,7 @@ Strict-Transport-Security: max-age = 86400; includeSubDomains
 - Submit token
 - Do not use GET for operations involving data manipulation (just a good practice, because POST can also be manipulated)
 
+#HSLIDE
 ### Clickjacking
 - Attacker creates fake page and through requests to the target site (usually via iframe), takes advantage of the user session
 
